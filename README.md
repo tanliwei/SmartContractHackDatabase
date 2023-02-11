@@ -2,7 +2,7 @@
 Collected hacks of smart contracts from blogs, twitters, news and etc.
 
 02112023,twitter,blocksec  
-We detected 15 attack transactions (so far) on both Eth and BSC for this same vulnerability.  
+We detected 15 attack transactions (so far) on both Eth and BSC for this same vulnerability. https://twitter.com/BlockSecTeam/status/1624077078852210691  
 [Wrong calculation, deflationary token]
 
 02102023,twitter,peckshield  
